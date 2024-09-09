@@ -1,0 +1,11 @@
+*{
+  background-color: blueviolet;
+  color: white;
+}
+
+#texto
+{
+ padding-top:100px;
+ text-align: center;
+ font-size: 60px;
+}
